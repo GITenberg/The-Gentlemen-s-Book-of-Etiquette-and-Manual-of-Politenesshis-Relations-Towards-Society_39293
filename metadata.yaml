@@ -1,0 +1,28 @@
+_repo: The-Gentlemen-s-Book-of-Etiquette-and-Manual-of-Politenesshis-Relations-Towards-Society_39293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, Cecil B.
+    alias: Hartley, C. B. (Cecil B.)
+    gutenberg_agent_id: '5333'
+    url: http://www.gutenberg.org/2009/agents/5333
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette for men'
+- !lcsh 'Etiquette'
+- !lcsh 'Men -- Conduct of life'
+- !lcc 'BJ'
+title: "The Gentlemen's Book of Etiquette and Manual of Politeness\r\nBeing a Complete\
+  \ Guide for a Gentleman's Conduct in All His Relations Towards Society"
+url: http://www.gutenberg.org/ebooks/39293
