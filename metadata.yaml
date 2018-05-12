@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5333'
     url: http://www.gutenberg.org/2009/agents/5333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39293#The-Gentlemen-s-Book-of-Etiquette-and-Manual-of-Politenesshis-Relations-Towards-Society
 gutenberg_issued: '2012-03-28'
 gutenberg_type: Text
 identifiers:
